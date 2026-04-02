@@ -1,6 +1,6 @@
 # Análisis de Salud Mundial
 
-## Jhon 
+## Jhon Alexander Urrego Huertas
 
 ##  Descripción del dataset
 Este dataset contiene información de salud de 159 países y 13 columnas, incluyendo esperanza de vida, 
